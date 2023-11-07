@@ -7,3 +7,4 @@ Objectives
   Debug the code
   Conducting QA on Pull Request 
   Push final commit to conclude the project
+
