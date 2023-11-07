@@ -7,4 +7,5 @@ CNE310 - IT Management Course - Partner with Tyler Sabin, from the Application D
 -  Debug the code
 -  Conducting QA on Pull Request 
 -  Push final commit to conclude the project
-
+# Special Thank
+Thank you Zak for supplying the initial code.
